@@ -1,0 +1,18 @@
+wap to find all the words start with vowel character
+wap to find all the words start with digit 
+wap to fetch the date from a string and make sure out of range should not be fetched.
+wap to fetch all the words which starts with a capital letter 
+wap that matchs a string that has an a followed by  either A-z a-z ....
+....
+search a string which start with Y,y or Z,z(use //b)
+re.findall("\S*[aeiouAEIOU]\\b",txt))
+
+
+
+Q1. write a python program to find out all the words that  ends with  a vowel. 
+Q2. write a python program to find out all the words start with a digit.
+Q3. write a python program to fetch the date from a string and make sure out of range date should not be fetched.
+Q4. write a python program to fetch all the words which starts with a capital letter.
+Q5. write a python program that matches a string that has an a followed by either [A-Z] , [a-z] or [0-9]
+w or W 
+Q6. write a python program to search a string which start with y or Y or z or Z
